@@ -1,0 +1,25 @@
+.container{
+	margin-top: 50px;
+}
+.fa-location-dot{
+	background-color: #320158;
+	color: #fff;
+}
+.display-1{
+	font-family: 'Caveat', cursive;
+}
+::-webkit-scrollbar{
+   height: 10px;
+   background-color: transparent;
+}
+::-webkit-scrollbar-thumb{
+	background-color:#ff5e57;
+	border-radius: 0px 0px 100px 100px;
+}
+.card :hover{
+  
+  transition: 0.3s;
+}
+.card{
+	transition: 0.3s;
+}

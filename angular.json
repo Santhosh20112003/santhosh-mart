@@ -24,8 +24,11 @@
             ],
             "styles": [
               "src/styles.css"
+              
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/algoliasearch/lite.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -97,5 +100,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "a1479df9-7c16-4b10-890b-e7c157841f3b"
   }
 }

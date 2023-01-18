@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Exo+2:wght@300;400;500;600;700;800;900&family=Rubik+Vinyl&display=swap');
+
+body{
+	background:linear-gradient(180deg,#dd277c,#a7179b,#7c0ab2);
+}
+::-webkit-scrollbar{
+	width: 5px;
+ background-color:#320158;
+}
+::-webkit-scrollbar-thumb{
+	background-color:#e92963;
+}
